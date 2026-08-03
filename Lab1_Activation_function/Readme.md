@@ -105,8 +105,7 @@ After completing this lab, you should be able to:
 Lab01_Activation_Functions/
 │
 ├── activation_functions.py
-├── activation_functions.ipynb
-├── plots/
+├── plot(combined)
 │   ├── sigmoid.png
 │   ├── tanh.png
 │   ├── relu.png
